@@ -1,0 +1,8 @@
+{
+    "Produit":{
+        "title":"Titre",
+        "price":"Prix",
+        "entry_date":"Date de saisie"
+    }
+    
+}

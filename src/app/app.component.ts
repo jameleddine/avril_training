@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'appAngular';
+
+  constructor(){
+    console.log('chargement app')
+  }
+
+  appel(){
+    alert("clicked from app")
+  }
 }
